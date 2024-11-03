@@ -1,19 +1,33 @@
+# Александр Корнеев
+Data Engineer
+Amdaris
 ---
-title: reveal-md deployed to gh-pages
-separator: <!--s-->
-verticalSeparator: <!--v-->
-theme: solarized
-highlight-theme: monokai
-css: custom.css
-revealOptions:
-  controls: false
-  slideNumber: false
-  transition: 'slide'
-  backgroundTransition: 'fade'
+# Вредоносное ПО
+Mallware
 ---
-
-# reveal-md & github-pages
-
-{{1_getStarted.md}}
-{{2_writing.md}}
-{{3_extras.md}}
+# Что такое вирус?
+![cat](pics/virus.png)
+---
+### Software vs Hardware
+![cat](pics/software_hardware.png)
+---
+## Троян (Trojan Horse)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WjlZDftLBsM?si=-5A-VtqdB1V6jRp_?t=129" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+## Червь (Worm)
+![cat](pics/worm.png)
+---
+## Шпионское ПО (Spyware)
+![cat](pics/spy.png)
+---
+## RAT (Remote Access Trojan)
+![cat](pics/rat.png)
+---
+## Keylogger
+![cat](pics/keyboard.png)
+---
+## Cryptojacking
+![cat](pics/crypto.png)
+---
+## Wiper
+![cat](pics/wipe.png)
